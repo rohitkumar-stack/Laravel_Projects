@@ -1,0 +1,44 @@
+ Enthucate Site
+	composer require pusher/pusher-php-server
+	 
+	ssh enthucatesftpuser@103.142.175.244
+	 
+	path: /var/www/sites/enthucate
+	PUSHER:
+		PUSHER_APP_ID=1281971
+		PUSHER_APP_KEY=5d4053d46c31f315d3ef
+		PUSHER_APP_SECRET=e829fd8eb9f608cd4e96
+		PUSHER_APP_CLUSTER=ap2
+		
+	SFTP/SSH Detail:
+		Server: 103.142.175.244
+		User: enthucatesftpuser
+		Pass: ILKUJ-0D%378#Src3
+
+	DB Detail:
+		Server: localhost
+		DBName: enthucatedb
+		DBUser: enthucatedb
+		Pass: K)(hV!@@ds2ftr@ftyu
+
+	Link: http://103.142.175.244/enthucate
+	http://103.142.175.244/phpmyadmin
+
+
+
+superadmin
+	superadmin@mailinator.com
+	enthucate12
+
+Developer Organisation
+	developer@mailinator.com
+	enthucate12
+
+
+ Tester Organisation
+	tester@mailinator.com
+	enthucate12
+
+Enthucate Organisation
+	enthucate@mailinator.com
+	enthucate12
